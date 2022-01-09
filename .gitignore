@@ -1,0 +1,6 @@
+### NodeJS ###
+# Dependency directories
+node_modules/
+## variables de entorno DEV
+.env
+package-lock.json
